@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [ravien.me](ravien.me)
+- 👨‍💻 All of my projects are available at [https://www.ravien.me](ravien.me)
 
 - 📫 How to reach me **dalpataduravien@gmail.com**
 
