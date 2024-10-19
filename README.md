@@ -2,9 +2,6 @@
 <h3 align="center">3rd-year UCSC undergrad 🌲 passionate about web development.</h3>
 
 - 🌱 I’m currently learning **React, Spring Boot**
-
-- 👨‍💻 All of my projects are available at ([ravien.me](https://www.ravien.me))
-
 - 📫 How to reach me **dalpataduravien@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
